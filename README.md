@@ -1,6 +1,6 @@
 # team7-web
 ### 19.5 rookie team project - (2021.11.20 ~ 2022.01.29)
-#### member
+#### Member
 * Front (React)
   * ongdyub
   * HyungGeun-Cho
@@ -8,6 +8,7 @@
     * yeonsumia
     * WallabyG
     * nemga123
+
 
 ![](src/Img/waflog-1.jpg)
 ![](src/Img/waflog-2.jpg)
