@@ -1,5 +1,5 @@
 # team7-web
-### 19.5 rookie team project - (2021.12.)
+### 19.5 rookie team project - (2021.11.20 ~ 2022.01.29)
 #### member
 * Front (React)
   * ongdyub
