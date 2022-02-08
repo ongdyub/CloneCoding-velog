@@ -1,2 +1,1 @@
-# CloneCoding-velog
-to practice React
+# team7-web
